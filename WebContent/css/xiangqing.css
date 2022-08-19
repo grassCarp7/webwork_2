@@ -1,0 +1,18 @@
+@charset "UTF-8";
+#num_jian{
+	
+	height:30px;
+	width:30px;
+	margin-left:10px;
+}
+#num_jia{
+	
+	height:30px;
+	width:30px;
+	margin-left:10px;
+}
+#count{
+	height:30px;
+	width:50px;
+	text-align:center;
+}

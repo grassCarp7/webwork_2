@@ -1,0 +1,19 @@
+ 
+.icon-user{
+	background:url('icons/user.png') no-repeat center center;
+}
+.icon-medicine{
+	background:url('icons/medicine.png') no-repeat center center;
+}
+.icon-user_manager{
+	background:url('icons/user_manager.jpg') no-repeat center center;
+}
+.icon-shop{
+	background:url('icons/shop.jpg') no-repeat center center;
+}
+.icon-alter{
+	background:url('icons/alter.jpg') no-repeat center center;
+}
+.icon-gouwu{
+	background:url('icons/gouwu.jpg') no-repeat center center;
+}

@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/login.css=UTF-8
+encoding//src/Dao/manager_bussinessDaoImpl.java=UTF-8
+encoding//src/Dao/manager_customerDaoImpl.java=UTF-8
+encoding//src/Dao/manager_goodsDao.java=UTF-8
+encoding//src/Dao/manager_goodsDaoImpl.java=UTF-8
+encoding//src/Dao/manager_orderDaoImpl.java=UTF-8
+encoding//src/Dao/manager_stockDaoImpl.java=UTF-8
